@@ -1,21 +1,3 @@
-    // TODO
-    // getSelectablePieces() populates the selectablePieces arraylist.
-    // selectablePieces will always contain the pieces that you are allowed to select at
-    // the beginning of the each click.
-    // this will ensure that you don't select a piece that you are not allowed to.
-    // will not allow you to select any other pieces if you have just captured and can capture again with that piece.
+Simple checkers learning project.
 
-    // getCaptureMoves(int x, int y)
-    // getCaptureMoves(Pos p)
-    // populates the pieceMoves arrayList with the captures that are possible.
-    // this is seperated from the getMoves method to use on its own when you capture 1 checker
-    // and are able to capture another.
-
-    // getMoves(int x, int y)
-    // getMoves(Pos p)
-    // populates the pieceMoves arrayList with the regular moves that are possible.
-    // uses the getCaptureMoves method above to populate the rest of the arraylist.
-
-    // selectPiece
-    // if you click on a position that exists in the checkPieces array list.
-    // all logic for which piece you can select exists there, including the
+This was very helpful for solidifying understanding of basic OOP principles.
